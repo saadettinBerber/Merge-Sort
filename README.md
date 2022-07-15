@@ -23,3 +23,5 @@ Birleştirme sırlaması algoritması da denir. Parçala fethet mantığı vard�
      5. aşama -son aşamada- ise elimde olan 2 diziyi birleştiriyorum.
      
      Sonuç olarak PARÇALADIM ve FETHEDEREK de birleştirdim.
+# Patika.dev
+www.patika.dev
