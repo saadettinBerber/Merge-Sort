@@ -21,3 +21,5 @@ Birleştirme sırlaması algoritması da denir. Parçala fethet mantığı vard�
         - Tek elemanlı diziler zaten sıralanmıştır. Çünkü eleman 1 tane olduğu için otomatik olarak sıralı olmuş oluyor.
      4. aşamada parçalanmış dizilerin bir kısmını birleştiriyorum.
      5. aşama -son aşamada- ise elimde olan 2 diziyi birleştiriyorum.
+     
+     Sonuç olarak PARÇALADIM ve FETHEDEREK de birleştirdim.
